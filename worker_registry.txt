@@ -1,0 +1,5 @@
+# PhotoClean public worker registry
+machine_name=ADMIN-PC
+worker_api_url=https://huge-plays-securities-phillips.trycloudflare.com
+updated_at=2026-08-29T15:47:48Z
+healthz=https://huge-plays-securities-phillips.trycloudflare.com/healthz
