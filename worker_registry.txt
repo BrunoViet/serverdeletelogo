@@ -1,5 +1,5 @@
 # PhotoClean public worker registry
 machine_name=ADMIN-PC
-worker_api_url=https://lobby-sir-eastern-depending.trycloudflare.com
-updated_at=2026-08-30T04:08:40Z
-healthz=https://lobby-sir-eastern-depending.trycloudflare.com/healthz
+worker_api_url=https://similarly-beautiful-happening-virtual.trycloudflare.com
+updated_at=2026-09-01T05:47:32Z
+healthz=https://similarly-beautiful-happening-virtual.trycloudflare.com/healthz
